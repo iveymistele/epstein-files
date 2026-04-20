@@ -1,1 +1,8 @@
 pymongo
+matplotlib
+scikit-learn
+ipykernel
+pandas
+numpy
+python-dotenv
+networkx

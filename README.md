@@ -2,7 +2,7 @@
 
 #### Executive Summary
 
-This repository contains an analysis pipeline for studying structural influence in the Epstein files through network analysis. Using a name co-occurrence network, I model relationships between individuals and use centrality metrics to identify who appears most influential in the document record. I apply bootstrapping, a resampling technique I learned in previous coursework, to evaluate whether these influence patterns remain stable across different document samples. The repository includes the data creation process, a reproducible Python pipeline, uncertainty documentation, and a visualization summarizing the results. Together, these materials show how document data can be used to study social network structure while accounting for uncertainty and bias.
+This repository contains an analysis pipeline (python notebook) for studying structural influence in the Epstein files through network analysis. Using a name co-occurrence network, I model relationships between individuals and use centrality metrics to identify who appears most influential in the document record. The repository includes the data creation process, a reproducible Python pipeline, metadata and uncertainty documentation, and a visualization summarizing the results. I included a MIT license as well as an environment file indicating which packages are required for running the python files. 
 
 Contents:
 - `LICENSE.md`: MIT license

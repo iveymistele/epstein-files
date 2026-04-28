@@ -34,7 +34,7 @@ Social networks are complex representations of human behavior, and using data to
 
 The Epstein files are a strong example of a publicly available dataset that reflects real-world human interactions. Instead of studying abstract or simulated networks, this project focuses on a dataset that has been widely examined and discussed, making it more meaningful to analyze. Refining the problem to identifying central individuals through co-occurrence allows for a more structured and measurable approach to understanding relationships within the data. This shift turns a broad idea about social networks into a specific, data-driven question that can be answered through analysis and visualization.
 
-#### Press Release: (Hidden Networks Revealed in Epstein Case Data: A Small Number of Individuals Appear Across a Disproportionate Share of Epstein Case Records)[link]
+#### Press Release: [Hidden Networks Revealed in Epstein Case Data: A Small Number of Individuals Appear Across a Disproportionate Share of Epstein Case Records](https://github.com/iveymistele/epstein-files/blob/main/PRESS_RELEASE.md)
 
 ## Domain Exposition
 

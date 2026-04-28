@@ -2,9 +2,20 @@
 
 #### Executive Summary
 
+This repository contains an analysis pipeline for studying structural influence in the Epstein files through network analysis. Using a name co-occurrence network, I model relationships between individuals and use centrality metrics to identify who appears most influential in the document record. I apply bootstrapping, a resampling technique I learned in previous coursework, to evaluate whether these influence patterns remain stable across different document samples. The repository includes the data creation process, a reproducible Python pipeline, uncertainty documentation, and a visualization summarizing the results. Together, these materials show how document data can be used to study social network structure while accounting for uncertainty and bias.
+
+Contents:
+- `LICENSE.md`: MIT license
+- `pipeline.ipynb`: Analysis pipeline (python)
+- `upload_data.py`: Python script to create document database and upload to MongoDB
+- `PRESS_RELEASE.md`: Press release for project
+- `requirements.txt`: Required packages for running pipeline analysis 
+- `epstein_network_and_stability.jpg`: Saved image of pipeline visualization output
+- `pipeline.md`: Pipeline notebook saved as markdown file
+
 Ivey Mistele
 
-zyh4up
+NetID: zyh4up
 
 DOI: [![DOI](https://zenodo.org/badge/1215532260.svg)](https://doi.org/10.5281/zenodo.19862841)
 

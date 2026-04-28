@@ -8,11 +8,11 @@ zyh4up
 
 [![DOI](https://zenodo.org/badge/1215532260.svg)](https://doi.org/10.5281/zenodo.19862841)
 
-(Press Release)[https://github.com/iveymistele/epstein-files/blob/main/PRESS_RELEASE.md] 
+[Press Release](https://github.com/iveymistele/epstein-files/blob/main/PRESS_RELEASE.md) 
 
-(Pipeline)[https://github.com/iveymistele/epstein-files/blob/main/pipeline.ipynb] 
+[Pipeline](https://github.com/iveymistele/epstein-files/blob/main/pipeline.ipynb) 
 
-License:
+[License: MIT](https://github.com/iveymistele/epstein-files/blob/main/LICENSE)
 
 
 ## Problem Definition

@@ -13,4 +13,4 @@ I processed the Epstein documents to find which names appear together most often
 
 ## Chart
 
-Insert later
+![Chart](epstein_network_and_stability.png)
